@@ -12,6 +12,8 @@ Build a portfolio of several projects that can be demonstrated in job interviews
 ## Projects
 
 1. Build a dice roller simulator
+   - Improvements
+     - Ask user again if he enters invalid numbers
 2. Build a word guessing game
 3. Password generator
 4. File manager
