@@ -20,5 +20,5 @@ Build a portfolio of several projects that can be demonstrated in job interviews
 5. Weather Forecast Application
 
 ## Instructor
-- Shaun Wassell
+- Shaun Wassell @
   - Senior Software Engineer, Educator at CBT Nuggets
