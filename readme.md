@@ -16,6 +16,8 @@ Build a portfolio of several projects that can be demonstrated in job interviews
      - Ask user again if he enters invalid numbers
 2. Build a word guessing game
 3. Password generator
+   - Improvements
+     - Validade user input with try - catch
 4. File manager
 5. Weather Forecast Application
 

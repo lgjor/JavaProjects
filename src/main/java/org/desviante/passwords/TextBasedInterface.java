@@ -6,7 +6,7 @@ public class TextBasedInterface implements UserInterface {
     private Scanner scanner;
 
     public TextBasedInterface(){
-        Scanner scanner = new Scanner(System.in);
+        this.scanner = new Scanner(System.in);
     }
 
     @Override

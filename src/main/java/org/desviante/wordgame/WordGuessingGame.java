@@ -41,6 +41,7 @@ public class WordGuessingGame {
             System.out.print("Guess a letter: ");
 
             char guess = scanner.nextLine().toLowerCase().charAt(0);
+            scanner.close();
 
             if (processGuess(guess)) {
                 System.out.println("Correct!.");
