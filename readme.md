@@ -4,10 +4,10 @@ Elevate your Java skills beyond the basics with this hands-on, project-based cou
 
 ## Learning objectives
 
-Construct five intermediate-level Java applications by applying core Java programming concepts and skills.
-Analyze and solve real-world programming problems by designing, implementing, and testing object-oriented solutions using Java.
-Evaluate and integrate different Java APIs and libraries to enhance the functionality and user experience of the projects.
-Build a portfolio of several projects that can be demonstrated in job interviews.
+- Construct five intermediate-level Java applications by applying core Java programming concepts and skills.
+- Analyze and solve real-world programming problems by designing, implementing, and testing object-oriented solutions using Java.
+- Evaluate and integrate different Java APIs and libraries to enhance the functionality and user experience of the projects.
+- Build a portfolio of several projects that can be demonstrated in job interviews.
 
 ## Projects
 
