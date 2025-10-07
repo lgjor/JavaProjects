@@ -1,28 +1,56 @@
-# Intermediate Java: 5 Projects
+# Java Intermediário: 5 Projetos
 
-Elevate your Java skills beyond the basics with this hands-on, project-based course. Designed for those who have a solid foundation in Java fundamentals, this course takes you on an immersive journey through five engaging, real-world projects. From building a secure password generator to developing a user-friendly weather application and a fun word-guessing game, you'll construct functional applications that solve practical problems. Along the way, you'll master intermediate Java concepts, object-oriented programming principles, and best practices for designing, implementing, and testing your solutions. Additionally, you'll explore the integration of external APIs and libraries, enhancing your ability to leverage powerful tools and resources within the vast Java ecosystem. By the end of this course, you'll have a portfolio of impressive projects that showcase your problem-solving abilities and practical Java development expertise.
+Este repositório contém cinco projetos práticos desenvolvidos em Java, demonstrando habilidades intermediárias de programação orientada a objetos, integração com APIs externas e aplicação de boas práticas de desenvolvimento.
 
-## Learning objectives
+## 📚 Sobre o Curso
 
-- Construct five intermediate-level Java applications by applying core Java programming concepts and skills.
-- Analyze and solve real-world programming problems by designing, implementing, and testing object-oriented solutions using Java.
-- Evaluate and integrate different Java APIs and libraries to enhance the functionality and user experience of the projects.
-- Build a portfolio of several projects that can be demonstrated in job interviews.
+Projetos desenvolvidos durante o curso **"Intermediate Java: 5 Projects"** do LinkedIn Learning, ministrado por [Shaun Wassell](https://github.com/shaunwa), Senior Software Engineer e Educator na CBT Nuggets.
 
-## Projects
+O curso aborda conceitos intermediários de Java através de uma abordagem prática, focando em aplicações funcionais que resolvem problemas do mundo real.
 
-1. Build a dice roller simulator
-   - Improvements
-     - Ask user again if he enters invalid numbers
-2. Build a word guessing game
-   - Improvements
-     - Reset the game state if the user decides to play again
-3. Password generator
-   - Improvements
-     - Validade user input with try - catch
-4. File manager
-5. Weather Forecast Application
+## 🎯 Objetivos de Aprendizagem
 
-## Instructor
-- Shaun Wassell - [Shaun Wassel](https://github.com/shaunwa)
-  - Senior Software Engineer, Educator at CBT Nuggets
+- Construir cinco aplicações Java de nível intermediário aplicando conceitos fundamentais de programação
+- Analisar e resolver problemas de programação reais através do design, implementação e teste de soluções orientadas a objetos
+- Avaliar e integrar diferentes APIs e bibliotecas Java para aprimorar a funcionalidade e experiência do usuário
+- Construir um portfólio de projetos que podem ser demonstrados em entrevistas de emprego
+
+## 🚀 Projetos
+
+### 1. Simulador de Dados (Dice Roller Simulator)
+Aplicação que simula o lançamento de dados.
+- **Melhorias implementadas:**
+  - Validação de entrada com solicitação repetida em caso de números inválidos
+
+### 2. Jogo de Adivinhação de Palavras (Word Guessing Game)
+Jogo interativo de adivinhação de palavras.
+- **Melhorias implementadas:**
+  - Reset completo do estado do jogo quando o usuário decide jogar novamente
+
+### 3. Gerador de Senhas (Password Generator)
+Ferramenta para geração de senhas seguras e personalizáveis.
+- **Melhorias implementadas:**
+  - Validação de entrada do usuário com tratamento de exceções (try-catch)
+
+### 4. Gerenciador de Arquivos (File Manager)
+Sistema de gerenciamento de arquivos com interface de usuário.
+
+### 5. Aplicação de Previsão do Tempo (Weather Forecast Application)
+Aplicação que integra API externa para consulta de previsão meteorológica.
+
+## 💻 Tecnologias Utilizadas
+
+- Java
+- Programação Orientada a Objetos
+- APIs Externas
+- Gradle (Build Tool)
+
+## 👨‍🏫 Instrutor
+
+**Shaun Wassell** - [GitHub](https://github.com/shaunwa)
+- Senior Software Engineer
+- Educator at CBT Nuggets
+
+---
+
+*Repositório desenvolvido como parte do curso "Intermediate Java: 5 Projects" no LinkedIn Learning*
